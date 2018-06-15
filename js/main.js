@@ -24,7 +24,7 @@
    /*---------------------------------------------------- */
 	/* Final Countdown Settings
 	------------------------------------------------------ */
-	var finalDate = '2019/01/01';
+	var finalDate = '2018/06/30';
 
 	$('div#counter').countdown(finalDate)
    	.on('update.countdown', function(event) {
@@ -118,7 +118,7 @@
 	------------------------------------------------------ */
 
 	// Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
-	var mailChimpURL = 'http://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e65110b38d'
+	var mailChimpURL = 'https://sportsequipt.us18.list-manage.com/subscribe/post?u=bb16e7f8a11979441f0e56204&amp;id=09a553c360'
 
 
 	$('#mc-form').ajaxChimp({
@@ -152,8 +152,8 @@
 	/*---------------------------------------------------- */
 	/* Map
 	------------------------------------------------------ */
-	var latitude = 14.549072,
-		 longitude = 121.046958,
+	var latitude = 34.020397,
+		 longitude = -118.288856,
 		 map_zoom = 15,		 
 		 main_color = '#d8ac00',
 		 saturation_value= -30,

@@ -551,7 +551,7 @@ main .site-header .logo a {
 	color: transparent;
 	width: 116px;
 	height: 80px;
-	background: url("../images/logo/logo@2x.png") no-repeat;
+	background: url("../images/logo/logo%402x.png") no-repeat;
 	background-size: contain;
 }
 
@@ -1136,9 +1136,9 @@ main .site-header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 70px;
-	height: 56px;
-	background: url("../images/users@2x.png") no-repeat;
+	width: 100px;
+	height: 100px;
+	background: url("../images/users%402x.png") no-repeat;
 	background-size: contain;
 }
 
@@ -1259,35 +1259,35 @@ main .site-header .logo a {
 }
 
 .s-photography .slider-icon {
-	background-image: url("../images/slides/photography@2x.png");
+	background-image: url("../images/slides/photography%402x.png");
 }
 
 .s-digital-media .slider-icon {
-	background-image: url("../images/slides/digitalmedia@2x.png");
+	background-image: url("../images/slides/digitalmedia%402x.png");
 }
 
 .s-marketing .slider-icon {
-	background-image: url("../images/slides/marketing@2x.png");
+	background-image: url("../images/slides/marketing%402x.png");
 }
 
 .s-videography .slider-icon {
-	background-image: url("../images/slides/videography@2x.png");
+	background-image: url("../images/slides/videography%402x.png");
 }
 
 .s-packaging .slider-icon {
-	background-image: url("../images/slides/packaging@2x.png");
+	background-image: url("../images/slides/packaging%402x.png");
 }
 
 .s-webdesign .slider-icon {
-	background-image: url("../images/slides/webdesign@2x.png");
+	background-image: url("../images/slides/webdesign%402x.png");
 }
 
 .s-web-development .slider-icon {
-	background-image: url("../images/slides/webdevelopment@2x.png");
+	background-image: url("../images/slides/webdevelopment%402x.png");
 }
 
 .s-branding .slider-icon {
-	background-image: url("../images/slides/branding@2x.png");
+	background-image: url("../images/slides/branding%402x.png");
 }
 
 .owl-pagination {
@@ -1359,7 +1359,7 @@ main .site-header .logo a {
 	width: 36px;
 	height: 36px;
 	line-height: 36px;
-	background: url("../images/marker@2x.png") no-repeat center center;
+	background: url("../images/marker%402x.png") no-repeat center center;
 	background-size: contain;
 	margin: 5px;
 	margin-top: -18px;
@@ -1550,4 +1550,3 @@ footer a:focus {
 	}
 
 }
-
